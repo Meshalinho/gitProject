@@ -1,0 +1,1 @@
+# This project uses rental data provided by Bike Share to further analyze customer behavior in regard to most common stops and time spent per rental
